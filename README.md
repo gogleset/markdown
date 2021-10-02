@@ -76,4 +76,44 @@ public class helloworld{
 
 
 
+# 종규형 문제
+
+   _coding_ ~~coding~~
+
+- apple
+  - iPhone
+    - airpod
+
+```Markdown
+This is sample
+```
+
+|  | DP | 오징어게임 | 슬기로운의사생활 |
+|----|----|----|----|
+|남자 호감도|상|중|중|
+|여자 호감도|중|상|상|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
